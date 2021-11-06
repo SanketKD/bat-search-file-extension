@@ -1,0 +1,1 @@
+# bat-search-file-extension
